@@ -11,7 +11,7 @@
 
 ## Giới thiệu
 
-Đây là đồ án môn học **Lập trình mạng căn bản (NT106.Q12)**, sử dụng **C# Windows Forms** và **TCP Socket** để xây dựng ứng dụng nhiều kết nối giữa client và server.
+Đây là bài tập môn học **Lập trình mạng căn bản (NT106.Q12)**, sử dụng **C# Windows Forms** và **TCP Socket** để xây dựng ứng dụng nhiều kết nối giữa client và server.
 
 ## Chức năng chính
 
