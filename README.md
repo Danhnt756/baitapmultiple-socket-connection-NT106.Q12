@@ -32,7 +32,7 @@ ex3.sln           --> File solution của Visual Studio
 ## Cách chạy chương trình
 
 1. Mở file **ex3.sln** bằng Visual Studio.
-2. Chạy dự án **TcpUserServer** trước để khởi động server.
+2. Chạy **TcpUserServer** trước để khởi động server.
 3. Sau đó chạy **TcpUserClient** và kết nối đến server.
 4. Đăng nhập bằng tài khoản trong **UserDB.sql** hoặc tạo mới nếu được hỗ trợ.
 
